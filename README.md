@@ -42,7 +42,7 @@ We experimented with batch normalisation and augmentation, and it was quite help
 ## Technologies Used
 
 - jupyter_client - 7.3.5
-- tensorFlow v2. 11.0
+- tensorFlow v2.11.0
 
 ## Contact
 Created by [SharathRaju489](https://github.com/SharathRaju489) - feel free to contact me!
